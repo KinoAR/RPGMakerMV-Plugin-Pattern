@@ -1,4 +1,4 @@
-# PluginPatterns
+# PluginPatterns Template Version
 ---
 This is a quick script for showcasing the pattern that I use for creating plugins in RPGMakerMV.
 You can download this plugin, and use it in your game to see that it does work, and gives you a bit of insight
